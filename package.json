@@ -1,0 +1,10 @@
+{
+    "name": "copy-visible",
+    "version": "1.0.0",
+    "description": "Plugin to copy visible text",
+    "engines": {
+        "foldingtext": ">=2.0.0",
+        "taskpaper": ">=3.0.0"
+    },
+    "homepage": "https://github.com/wmbenedetto"
+}
